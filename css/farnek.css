@@ -1,0 +1,526 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    overflow-x: hidden;
+}
+.social-media-icons{
+    font-size: 13px;
+}
+.farnek800 span{
+    font-size: 13px;
+    font-weight: bold;
+}
+#navbarID{
+    width: 70%;
+    /* border-bottom: 50px solid rgb(21, 21, 21);
+    padding-top: ;
+	border-right: 35px solid transparent;
+	height: 0px; */
+    
+   
+}
+#navbarID2{
+    width: 30%;
+    background: #e87722;
+   
+}
+#navbarID2 i{
+    margin-left: -50px;
+    color: #fff;
+    cursor: pointer;
+}
+#navbarID2 button{
+    background: linear-gradient(rgba(245, 245, 245, 0), rgba(10, 10, 10, 0.281));
+    border: none;
+    padding: 21px 35px;
+    color: #fff;
+    font-weight: bold;
+}
+
+.navbar-contacts span{
+    font-size: 12px;
+    color: rgb(198, 198, 198);
+}
+.navbar-links i:hover{
+    color: #e87722;
+}
+.farnek-logo span{
+    margin-left: 50%;
+}
+
+.nav a {
+    font-size: 11px;
+    font-weight: 600;
+    margin-left: 4px;
+    text-decoration: none;
+    color: #fff; 
+    margin-top: 10px;
+    margin-left: 20px;
+}
+
+.nav a:hover{
+    color: #e87722;
+    
+}
+
+.bg-image {
+    background-image: url(/img/download3.jpg);
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+    background-repeat: no-repeat;
+    cursor: pointer;
+
+}
+
+.SMART-AND-GREEN h1 {
+    font-weight: bolder;
+    padding-top: 200px;
+}
+
+.CONTACT-US {
+    padding: 10px 60px;
+    font-weight: bolder;
+    font-size: 20px;
+    background: #e87722;
+    border: none;
+    margin-top: 25px;
+}
+
+.down {
+    margin-top: -40px;
+}
+
+.CONNECT-WITH-US {
+    background: #e87722;
+    padding: 25px;
+
+}
+
+.OUR-SERVICES {
+    padding: 25px;
+}
+
+.SUSTAINABILITY {
+    background: #e87722;
+    padding: 25px;
+}
+
+.feedback {
+    margin-top: -100px;
+}
+.half-stroke{
+    color: #e87722;
+}
+
+.fa-connectdevelop {
+    color: #e87722;
+}
+
+.fa-pagelines {
+    color: #e87722;
+}
+.WHY-CHOOSE-US p{
+    font-size: 12px;
+}
+.WHY-CHOOSE-US h4{
+    font-size: 20px;
+}
+
+.SEND-REQUEST {
+    background: #F1F1F1;
+    font-size: px;
+    /* margin-top: 20px; */
+}
+
+.SEND-REQUEST form {
+    
+}
+
+.SEND-REQUEST form input {
+    margin-left: 10px;
+    margin-top: 20px;
+    padding: 10px 40px;
+    border: 1px solid #ccc9c9;
+}
+
+.VIEW-MORE {
+    border: 2px solid #e87722;
+    padding: 15px 20px;
+    color: #e87722;
+    background: white;
+    font-weight: 400;
+}
+
+.VIEW-MORE:hover {
+    background: #e87722;
+    color: #ffffff;
+}
+
+.text-area {
+    display: block;
+    margin-left: 8px;
+    margin-bottom: 50px;
+    border: 1px solid #ccc9c9;
+
+}
+
+.SEND-REQUEST button {
+    display: block;
+    margin: 0px 20px;
+    margin-top: -22px;
+    padding: 15px 135px;
+    border: none;
+    background: #e87722;
+    color: white;
+    font-weight: bolder;
+}
+
+.SEND-REQUEST button:hover {
+    background-color: black;
+}
+.SMART-AND-GREEN2{
+    margin-top: 100px;
+    border-top: 1px solid #ccc9c9
+    
+}
+.SMART-AND-GREEN2 h1{
+    margin-top: 40px;
+    border-spacing: -40px;
+    font-size: 28px;
+}
+.SMART-AND-GREEN2 P{
+    font-size: 13px;
+}
+
+.review {
+    background: #e87722;
+}
+
+.image2 {
+    background-image: linear-gradient(rgba(12, 11, 11, 0.904), rgba(19, 18, 19, 0.73)), url(/img/CANOPY-CLEANING2.jpg);
+    /* background-size: 100vw 100%; */
+    background-repeat: no-repeat;
+    background-size: contain, 130%;
+    background-position-x: center;
+    
+}
+
+.image2 h2 {
+    padding: 50px 0px 40px 0px;
+    font-weight: bold;
+}
+
+.image2 h4 {
+    padding: 30px 0px 30px 0px;
+}
+
+.image2 p {
+    margin-top: -20px;
+}
+
+.HOSPITALITY-SERVICES {
+    margin-bottom: 20px;
+}
+.SERVICE-OFFERING-2 p{
+    font-size: 12px;
+}
+
+.service-button {
+    margin: 30px 0px 30px 0px;
+    padding: 12px 15px;
+    border: 2px solid rgb(255, 153, 0);
+    background: linear-gradient(rgb(30, 30, 28, 0), rgba(19, 18, 19, 0.73));
+    color: #e87722;
+    font-size: 12px;
+}
+
+.service-button:hover {
+    background: rgb(255, 153, 0);
+    color: white;
+}
+
+.image-gallery img {
+    width: 120%;
+    height: 300px;
+    cursor: pointer;
+    background-position: center;
+}
+
+.phone-map {
+    margin-top: 35px;
+}
+
+.map-image img {
+    object-fit: cover;
+    width: 110%;
+    height: 100%;
+    /* margin-bottom: 50px; */
+}
+
+.HOME-MAINTENANCE {
+    background: #e87722;
+    padding-right: 20px;
+    align-content: start;
+    padding-bottom: 80px;
+    padding-top: 40px;
+}
+
+.resident {
+    font-size: 50px;
+    font-weight: bolder;
+    margin-top: 100px;
+    margin-right: 220px;
+}
+
+.resident span {
+    margin-right: 88px;
+}
+
+.h-g {
+    font-size: 150px;
+    font-weight: bolder;
+    margin-right: 15px;
+}
+
+.HITCHES {
+    font-size: 25px;
+}
+
+.view-more-button {
+    padding: 18px;
+    border: none;
+    margin-top: 10px;
+    margin-bottom: 50px;
+}
+.hitek{
+    background-image: linear-gradient(rgba(31, 29, 29, 0.404), rgba(48, 45, 48, 0.123)), url(/img/hitek.jpg);
+    padding: 100px 0px 10% 0px;
+    background-repeat: no-repeat;
+    background-size: 100% cover;
+    background-position: center;
+}
+.hitek h1{
+    font-size: 60px;
+    font-weight: bolder;
+}
+.hitek button{
+    padding: 15px;
+    margin: 15px;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    font-size: 15px;
+}
+.hitek .btn1{
+    background: rgb(63, 175, 212);
+    padding: 18px;
+}
+.hitek .btn2{
+    background: rgb(64, 63, 79);
+    border: 2px solid #fff;
+}
+.hitek .btn2:hover{
+    background: #fff;
+    color: rgb(132, 132, 132);
+}
+.latest-news img{
+    width: 98%;
+}
+.image3{
+    height: 66%;
+    opacity: 1;
+    display: block;
+    width: 100%;
+    transition: .5s ease;
+    backface-visibility: hidden; 
+}
+.latest-news p{
+    font-size: 13px;
+    color: rgb(107, 107, 107);
+}
+.latest-news h4{
+    font-size: 17px;
+    font-weight: 500;
+    color: rgb(32, 32, 32);
+    cursor: pointer;
+}
+.latest-news h4:hover{
+    color: #e87722;
+}
+.image-container{
+    position: relative;
+}
+.image{
+    opacity: 1;
+    display: block;
+    width: 100%;
+    height: auto;
+    transition: .5s ease;
+    backface-visibility: hidden; 
+}
+.middle{
+    transition: .5s ease;
+    opacity: 0;
+    position: absolute;
+    top: 35%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    text-align: center;
+    background: #e87722;
+    width: 13%;
+    height: 14%;
+  }
+  .image-container:hover .image {
+    opacity: 0.3;
+  }
+  .image-container:hover .image3 {
+    opacity: 0.3;
+  }
+  
+  .image-container:hover .middle {
+    opacity: 1;
+  }
+  .text {
+    background-color: #e87722;
+    color: white;
+    -webkit-transition: .3s ease;
+    transition: .3s ease;
+    transform: scale(1);
+  }
+  .text:hover{
+    -webkit-transition: .3s ease;
+    transition: .3s ease;
+    transform: scale(1);
+  }
+  .Previous-News button{
+    background: #e87722;
+    color: #fff;
+    font-weight: 100;
+  }
+  .Previous-News button:hover{
+    background: #000;
+    color: #fff;
+  }
+  .HOSPITALITY-SERVICES-2{
+    background-image: url(/img/Farnek-office.jpg);
+    background-size: cover;
+    height: 100vh;
+    background-position: center;
+    margin-top: 100px;
+  }
+  .HOSPITALITY-SERVICES-3{
+    padding-top: 18%;
+  }
+  .HOSPITALITY-SERVICES-3 button{
+    border: none;
+    background: #e87722;
+    color: #fff;
+    margin-top: 20px;
+  }
+  .HOSPITALITY-SERVICES-3 p{
+    font-size: 13px;
+  }
+  .CLIENT-TESTIMONIALS{
+    background-image: url(/img/CLIENT\ TESTIMONIALS.png);
+    background-size: 100% cover;
+    background-position: center;
+  }
+  .CLIENT-TESTIMONIALS p{
+    color: rgb(155, 155, 155);
+  }
+  .num66{
+    width: 14%;
+    padding: 2%;
+    border: 1px solid #e87722;
+    margin: 20px 0px;
+    font-size: 18px;
+    font-weight: 500;
+    color: #e87722;
+  }
+  .unselect{
+    -webkit-user-select: none;
+    -webkit-touch-callout: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    border: 1px solid rgb(243, 242, 242);
+    background: #fff;
+    margin: 15px;
+    padding: 20px;
+    font-size: 16px;
+    font-weight: 100;
+    font-style: italic;
+  }
+  .contain-unselect p{
+    font-size: 15px;
+    color: rgba(56, 55, 55, 0.733);
+  }
+  .contain-unselect h4{
+    font-style: normal;
+    font-size: 15px;
+    font-weight: 500;
+  }
+  .SECURITY-SERVICES{
+    background-image: url(/img/Farnek-Security.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    margin-top: 20px;
+    padding-top: 18%;
+  }
+  .SECURITY-SERVICES p{
+    font-size: 13px;
+    font-weight: 600;
+  }
+  .SECURITY-SERVICES button{
+    padding: 17px 20px; 
+    border: none;
+    background: #e87722;
+    color: #fff;
+  }
+@media screen and (max-width:480px){
+    .toggle-nav{
+        position: static;
+    }
+    .icon-toggle{
+        position: absolute;
+        top: 20px;
+        left: 20px;
+        color: #000;
+    }
+    .div-contain{
+        position: static;
+    }
+    #navbarID2 i{
+        position: absolute;
+        top: 35px;
+        right: 30px;
+        color: #000;
+    }
+    .farnek-logo{
+       margin-left: 40px;
+    }
+    .SECURITY-SERVICES{
+        padding-top: 50%;
+    }
+    .SMART-AND-GREEN h1 {
+        font-size: 14px;
+    }
+    .CONTACT-US{
+        font-size: 10px;
+        padding: 0px 8px;
+        margin-top: -20px;
+    }
+    .bg-image{
+       background-size: contain;
+       margin-top: -150px; 
+
+    }
+}
